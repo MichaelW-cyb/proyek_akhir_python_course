@@ -1,0 +1,27 @@
+===== LIBRARY REPORT =====
+ID : 001
+Title : How To Train Your Dragon
+Type : Book
+Category : Fantasy
+Publication Year : 1998
+Author : Luther Kings
+Status : Available
+----------------------------------------
+ID : 002
+Title : The Art of Politics
+Type : Magazine
+Category : Biography
+Publication Year : 2009
+Issue Number : 3
+Status : Available
+----------------------------------------
+========================================
+LIBRARY SUMMARY
+========================================
+Total Items : 2
+Total Books : 1
+Total Magazines : 1
+Borrowed Items : 0
+Available Items : 2
+Newest Item : The Art of Politics
+Oldest Item : How To Train Your Dragon
